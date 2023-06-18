@@ -1,0 +1,10 @@
+num_nodi = 4;
+ufficio_postale = 2;
+dim_borsa = 36;
+max_step = 8;
+elenco_lettere = [2, 0, 0, 0];
+distanze = [|0, 7, 18, 18
+|21, 0, 8, 4
+|17, 6, 0, 8
+|24, 6, 21, 0
+|];
